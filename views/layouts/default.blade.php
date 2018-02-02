@@ -10,7 +10,7 @@
         @include('includes.header')
       </header>
 
-      <div id="main" class="row">
+      <div class="main" class="row">
 
         @yeild('content')
 
